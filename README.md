@@ -20,20 +20,48 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 **Dataset Links and classes**
 
 * [Apple](https://www.kaggle.com/datasets/rm1000/augmented-apple-disease-detection-dataset)
-  * Apple Scab, Black Rot, Cedar Apple Rust, Healthy
+  * Apple Scab
+  * Black Rot
+  * Cedar Apple Rust
+  * Healthy
 * [Cassava](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4RB0B)
-  * Cassava Brown Streak Disease, Cassava Mosaic Disease, Healthy
+  * Cassava Brown Streak Disease
+  * Cassava Mosaic Disease
+  * Healthy
 * [Rice](https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease)
-  * Healthy, Late Blight, Leaf Blast, Neck Blast
+  * Healthy
+  * Late Blight
+  * Leaf Blast
+  * Neck Blast
 * [Tomato](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf/data)
-  * Tomato Mosaic Virus, Target Spot, Bacterial Spot, Tomato Yellow Leaf Curl Virus, Late Blight, Leaf Mold, Early Blight, Spider mites-Two spotted spider mite, Healthy, Septoria leaf spot
+  * Tomato Mosaic Virus
+  * Target Spot
+  * Bacterial Spot
+  * Tomato Yellow Leaf Curl Virus
+  * Late Blight
+  * Leaf Mold
+  * Early Blight
+  * Spider mites-Two spotted spider mite
+  * Healthy
+  * Septoria leaf spot
 * [Banana](https://www.kaggle.com/datasets/shifatearman/bananalsd)
-  * Cordana, Healthy, Pestaliopsis, Sigatoka
+  * Cordana
+  * Healthy
+  * Pestaliopsis
+  * Sigatoka
 * [Corn](https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease)
-  * Corn Common Rust, Corn Gray Leaf Spot, Corn Northern Leaf Blight, Corn Healthy
+  * Corn Common Rust
+  * Corn Gray Leaf Spot
+  * Corn Northern Leaf Blight
+  * Corn Healthy
 * [Orange](https://www.kaggle.com/datasets/jonathansilva2020/orange-diseases-dataset)
-  * Blackspot, Cancer, Fresh, Greening
+  * Blackspot
+  * Cancer
+  * Fresh
+  * Greening
 * [Potato](https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease)
-  * Early Blight, Late Blight, Healthy
+  * Early Blight
+  * Late Blight
+  * Healthy
 
 **Image Examples**
