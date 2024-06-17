@@ -66,8 +66,8 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 
 **Image Examples**
  
-<p align="center">Apple Leaf Diseases preview dataset </p>
+<p align="center">Apple Leaf Diseases preview dataset: </p>
 <img align="center" src="Image/Apple_Disease.png"></img>
 
-<p align="center">Rice Leaf Diseases preview dataset </p>
+<p align="center">Rice Leaf Diseases preview dataset: </p>
 <img align="center" src="Image/RIce_Disease.png"></img>
