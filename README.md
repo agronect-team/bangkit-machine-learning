@@ -71,3 +71,6 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 
 <p align="center">Rice Leaf Diseases preview dataset: </p>
 <img align="center" src="Image/RIce_Disease.png"></img>
+ 
+<p align="center">Tomato Diseases preview dataset: </p>
+<img align="center" src="Image/Tomato_Disease.png"></img>
