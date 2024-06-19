@@ -66,11 +66,25 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 
 **Image Examples**
  
-<p align="center">Apple Leaf Diseases preview dataset: </p>
+<p align="center">Apple Leaf Diseases Preview Dataset: </p>
 <img align="center" src="Image/Apple_Disease.png"></img>
 
-<p align="center">Rice Leaf Diseases preview dataset: </p>
+<p align="center">Rice Leaf Diseases Preview Dataset: </p>
 <img align="center" src="Image/RIce_Disease.png"></img>
  
-<p align="center">Tomato Diseases preview dataset: </p>
+<p align="center">Tomato Diseases Preview Dataset: </p>
 <img align="center" src="Image/Tomato_Disease.png"></img>
+ 
+<p align="center">Banana Leaf Diseases Preview Dataset: </p>
+<img align="center" src="Image/banana disease dataset.jpg"></img>
+
+<p align="center">Corn Leaf Diseases Preview Dataset: </p>
+<img align="center" src="Image/banana disease dataset.jpg"></img>
+
+<p align="center">Potato Leaf Diseases Preview Dataset: </p>
+<img align="center" src="Image/potatoleafexampl.jpg"></img>
+
+<p align="center">Orange Diseases Preview Dataset: </p>
+<img align="center" src="Image/orangfruitexampl.jpg"></img>
+
+
