@@ -79,7 +79,7 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 <img align="center" src="Image/banana disease dataset.jpg"></img>
 
 <p align="center">Corn Leaf Diseases Preview Dataset: </p>
-<img align="center" src="Image/banana disease dataset.jpg"></img>
+<img align="center" src="Image/corn disease dataset.jpg"></img>
 
 <p align="center">Potato Leaf Diseases Preview Dataset: </p>
 <img align="center" src="Image/potatoleafexampl.jpg"></img>
