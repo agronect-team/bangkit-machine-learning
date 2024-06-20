@@ -90,4 +90,7 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 <p align="center">Banana Leaf Diseases Preview Dataset: </p>
 <img align="center" src="Image/banana disease dataset.jpg"></img>
 
+<p align="center">Cassava Leaf Diseases Preview Dataset: </p>
+<img align="center" src="Image/cassava disease dataset.jpg"></img>
+
 
