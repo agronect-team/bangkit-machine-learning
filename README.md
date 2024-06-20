@@ -87,4 +87,7 @@ Our Machine Learning team contribute in building eight (8) machine learning mode
 <p align="center">Orange Diseases Preview Dataset: </p>
 <img align="center" src="Image/orangfruitexampl.jpg"></img>
 
+<p align="center">Banana Leaf Diseases Preview Dataset: </p>
+<img align="center" src="Image/banana disease dataset.jpg"></img>
+
 
